@@ -23662,7 +23662,7 @@ return A.O(null,r)}})
 return A.P($async$a2Q,r)},
 aG1(){var s=0,r=A.Q(t.kE),q,p,o,n
 var $async$aG1=A.J(function(a,b){if(a===1)return A.N(b,r)
-while(true)switch(s){case 0:p=A.aVk("http://computervision.edu.vn/api",15e3,15e3,B.cm,15e3,new A.aB9())
+while(true)switch(s){case 0:p=A.aVk("https://computervision.edu.vn/api",15e3,15e3,B.cm,15e3,new A.aB9())
 o=new A.Oy(A.b([],t.lC),new A.Cg(),new A.Cg(),new A.Cg())
 n=new A.MS($,o,$,new A.a6P(),!1)
 n.fP$=p
